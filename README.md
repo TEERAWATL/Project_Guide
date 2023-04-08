@@ -10,7 +10,6 @@ Happy exploring!
 
 
 # Project Guide Summary Table
-
 | Project Name                                      | Description                                                   | Techniques                          | Libraries                                                   | Run on Colab |
 |---------------------------------------------------|---------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------|-------------|
 | 1. Car Price Prediction by Regression ElasticNet  | Predict car prices using linear regression with ElasticNet   | Linear Regression, ElasticNet       | numpy, pandas, matplotlib, sklearn                          | No          |
@@ -18,6 +17,8 @@ Happy exploring!
 | 3. Classification of News Categorization          | Categorize Thai news articles using logistic regression      | Logistic Regression                 | numpy, pandas, matplotlib, sklearn                          | No          |
 | 4. Predict Stock Price with LSTM                  | Predict stock prices using an LSTM model                     | LSTM, Time-Series Analysis          | numpy, pandas, matplotlib, sklearn, keras                   | **Yes**     |
 | 5. Diabetes Prediction using Elastic Net Logistic Regression | Predict the presence of diabetes using Elastic Net Logistic Regression | Elastic Net Logistic Regression | Python 3.7, NumPy, pandas, scikit-learn, Matplotlib, seaborn | No          |
-| 6. Box Size Clustering using K-Means and Davies-Bouldin Index | Cluster box sizes using K-Means clustering and select the optimal number of clusters using the Davies-Bouldin Index | K-Means Clustering, Davies-Bouldin Index | pandas, numpy, scikit-learn, matplotlib | No |
+| 6. Box Size Clustering using K-Means and Davies-Bouldin Index | Cluster box sizes using K-Means clustering and select the optimal number of clusters using the Davies-Bouldin Index | K-Means Clustering, Davies-Bouldin Index | pandas, numpy, scikit-learn, matplotlib | No          |
+| 7. Iris Dataset Exploration, Visualization, and Classification | Explore, visualize, and classify the Iris dataset using a Random Forest model | Data Exploration, Visualization, Random Forest | numpy, pandas, seaborn, matplotlib, scikit-learn | No          |
+
 
 Note: Projects marked with **Yes** in the "Run on Colab" column are intended to be run on Google Colab.
