@@ -21,6 +21,7 @@ Happy exploring!
 | 7. Iris Dataset Exploration, Visualization, and Classification | Explore, visualize, and classify the Iris dataset using a Random Forest model | Data Exploration, Visualization, Random Forest | numpy, pandas, seaborn, matplotlib, scikit-learn | No          |
 | 8. Object Detection using Faster R-CNN | Perform object detection on an image using Faster R-CNN with ResNet-50 backbone | Object Detection, Faster R-CNN, ResNet-50 | torch, torchvision, PIL, matplotlib | Yes          |
 | 9. Saliency Map for Object Detection | Generate a saliency map for an object detection model using PyTorch and TorchVision | Saliency Map, Object Detection, Faster R-CNN, ResNet-50 | torch, torchvision, PIL, matplotlib, numpy, scipy | Yes          |
+| 10. SQL Queries for Classification Database and df1 Table | Perform various SQL queries on `classification_database` and `df1` tables, demonstrating data retrieval, filtering, aggregation, and more | SQL Queries, Data Manipulation, Aggregation | SQL, pandas | No          |
 
 
 Note: Projects marked with **Yes** in the "Run on Colab" column are intended to be run on Google Colab.
