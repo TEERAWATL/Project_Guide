@@ -26,5 +26,6 @@ Happy exploring!
 | 12. Data Preparation for Breast Cancer Dataset | Demonstrate various techniques for data preparation in Python using the breast cancer dataset from scikit-learn | Data Cleaning, Data Transformation, Data Splitting, Feature Selection, Data Visualization | pandas, numpy, scikit-learn, matplotlib, seaborn | No          |
 | 13. Two-Way ANOVA | Perform a two-way ANOVA analysis on a sample dataset to analyze the interaction between two factors and their effect on a dependent variable | Two-Way ANOVA, Interaction Plot | pandas, numpy, statsmodels, seaborn, matplotlib | No          |
 | 14. Score Test by One-Way ANOVA | Perform an ANOVA test on a sample dataset and visualize the results | ANOVA, Data Visualization | pandas, matplotlib, scipy | No          |
+| 15. Chi-Squared Test and Visualization | Determine if there is a significant association between two categorical variables and visualize the frequency of each variable | Chi-Squared Test, Data Visualization | pandas, numpy, scipy, matplotlib, seaborn | No          |
 
 Note: Projects marked with **Yes** in the "Run on Colab" column are intended to be run on Google Colab.
