@@ -25,5 +25,6 @@ Happy exploring!
 | 11. Iris Species Prediction | Predict the species of an iris plant based on its sepal length, sepal width, petal length, and petal width using a Gaussian Naive Bayes classifier, with a GUI built using ipywidgets | Naive Bayes, GUI | scikit-learn, ipywidgets | No          |
 | 12. Data Preparation for Breast Cancer Dataset | Demonstrate various techniques for data preparation in Python using the breast cancer dataset from scikit-learn | Data Cleaning, Data Transformation, Data Splitting, Feature Selection, Data Visualization | pandas, numpy, scikit-learn, matplotlib, seaborn | No          |
 | 13. Two-Way ANOVA | Perform a two-way ANOVA analysis on a sample dataset to analyze the interaction between two factors and their effect on a dependent variable | Two-Way ANOVA, Interaction Plot | pandas, numpy, statsmodels, seaborn, matplotlib | No          |
+| 14. Score Test by One-Way ANOVA | Perform an ANOVA test on a sample dataset and visualize the results | ANOVA, Data Visualization | pandas, matplotlib, scipy | No          |
 
 Note: Projects marked with **Yes** in the "Run on Colab" column are intended to be run on Google Colab.
