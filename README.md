@@ -35,7 +35,7 @@ Happy exploring!
 | 22 | Advanced   | Predict Stock Price with LSTM                  | Predict stock prices using an LSTM model                     | LSTM, Time-Series Analysis          | numpy, pandas, matplotlib, sklearn, keras                   | Yes     |
 | 23 | Advanced   | Object Detection using Faster R-CNN            | Perform object detection on an image using Faster R-CNN with ResNet-50 backbone | Object Detection, Faster R-CNN, ResNet-50 | torch, torchvision, PIL, matplotlib | Yes          |
 | 24 | Advanced   | Saliency Map for Object Detection              | Generate a saliency map for an object detection model using PyTorch and TorchVision | Saliency Map, Object Detection, Faster R-CNN, ResNet-50 | torch, torchvision, PIL, matplotlib, numpy, scipy | Yes          |
-
+| 25 | Advanced   | FastAPI based Data Analysis and Visualization Tool | Perform various data analysis and visualization tasks using FastAPI based application | Data Analysis, Visualization, API Development | FastAPI, numpy, pandas, matplotlib, scipy, scikit-learn | No          |
  
 
 Note: Projects marked with **Yes** in the "Run on Colab" column are intended to be run on Google Colab. 
